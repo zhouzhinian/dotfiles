@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-set -euo pipefail
-
-emacs --daemon &
-dunst &
-fcitx5 &

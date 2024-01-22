@@ -1,2 +1,0 @@
-#!/bin/bash
-bash -c "kitty @ set-colors --all --configured ~/.config/kitty/kitty.conf"

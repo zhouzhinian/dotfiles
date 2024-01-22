@@ -1,9 +1,0 @@
-#!/bin/bash
-
-if [[ ! $(diff ~/Pictures/qtile/wallpaper.png ~/Pictures/qtile/light.png) ]]; then
-    echo "Light Now"
-    switch n
-else
-    echo "Dark Now"
-    switch l
-fi
